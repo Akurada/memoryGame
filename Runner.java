@@ -73,6 +73,8 @@ public class Runner {
 		jFram.setTitle("Matching Game");
 
 		jFram.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		
+		system.out.println("");
 
 	}
 
