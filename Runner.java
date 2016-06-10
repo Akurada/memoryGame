@@ -74,8 +74,7 @@ public class Runner {
 
 		jFram.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
-		system.out.println("");
-
+	// this was a bad line
 	}
 
 }
